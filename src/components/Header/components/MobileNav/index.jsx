@@ -34,9 +34,9 @@ function MobileNav() {
         </motion.div>
       </div>
       <div
-        className={`fixed bg-[#474b4f] w-[250px] ${
+        className={`fixed bg-[#6B6E70] w-[250px] ${
           isShowMenu ? "right-0" : "right-[-250px]"
-        } shadow-sm top-18 right-0 pt-5 pb-10 px-10 md:px-20 md:hidden z-20 rounded-b-2xl duration-300 ease-in-out overflow-hidden`}
+        } shadow-sm top-17 right-0 pt-5 pb-10 px-10 md:px-20 md:hidden z-20 rounded-b-2xl duration-300 ease-in-out overflow-hidden`}
       >
         <div className="flex flex-col justify-center items-center gap-8">
           <ul className="flex flex-col gap-8">
