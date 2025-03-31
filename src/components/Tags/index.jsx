@@ -19,7 +19,7 @@ function Tags() {
           <Link key={index}>
             <div
               key={index}
-              className="rounded-md text-white p-2 bg-[#6B6E70] hover:bg-[#86C232] transition-all cursor-pointer"
+              className="rounded-md text-white p-2 bg-[#6B6E70] hover:bg-[#61892F] transition-all cursor-pointer"
             >
               <p className="text-sm font-medium text-center">{item.name}</p>
             </div>
