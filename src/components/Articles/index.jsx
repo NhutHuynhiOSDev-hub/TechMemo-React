@@ -9,6 +9,10 @@ function Articles() {
         <ArticleItem />
         <ArticleItem />
         <ArticleItem />
+        <ArticleItem />
+        <ArticleItem />
+        <ArticleItem />
+        <ArticleItem />
       </div>
     </section>
   );

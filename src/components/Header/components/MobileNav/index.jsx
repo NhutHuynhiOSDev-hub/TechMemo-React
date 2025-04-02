@@ -52,9 +52,7 @@ function MobileNav() {
           </ul>
           <div>
             <Link to="/login">
-              <Button className={"font-semibold hover:scale-110 text-white"}>
-                Login
-              </Button>
+              <Button className={"font-semibold text-white"}>Login</Button>
             </Link>
             {/* {userLoggedIn ? (
                 <Link to="/profile">
