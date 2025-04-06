@@ -13,22 +13,33 @@ export default {
       purple: "#8B46FF",
     },
 
-    fontSize: {
-      sm: "12px",
-      base: "14px",
-      xl: "16px",
-      "2xl": "20px",
-      "3xl": "28px",
-      "4xl": "38px",
-      "5xl": "50px",
+    screens: {
+      sm: "640px",
+      md: "768px",
+      lg: "960px",
+      xl: "1330px",
     },
 
-    extend: {
-      fontFamily: {
-        inter: ["'Inter'", "sans-serif"],
-        gelasio: ["'Gelasio'", "serif"],
-      },
+    fontSize: {
+      xs: "12px",
+      sm: "14px",
+      base: "16px",
+      lg: "18px",
+      xl: "20px",
+      "2xl": "24px",
+      "3xl": "30px",
+      "4xl": "36px",
+      "5xl": "48px",
+      "6xl": "60px",
+      "7xl": "72px",
+      "8xl": "96px",
+      "9xl": "128px",
     },
+    // extend: {
+    //   fontFamily: {
+    //     roboto: ["Roboto", "sans-serif"],
+    //   },
+    // },
   },
   plugins: [],
 };
