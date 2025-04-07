@@ -35,11 +35,6 @@ export default {
       "8xl": "96px",
       "9xl": "128px",
     },
-    // extend: {
-    //   fontFamily: {
-    //     roboto: ["Roboto", "sans-serif"],
-    //   },
-    // },
   },
   plugins: [],
 };
